@@ -1,0 +1,21 @@
+{
+  "main": "app.js",
+  "type": "commonjs",
+  "license": "MIT",
+  "name": "mccs",
+  "version": "0.1",
+  "url": "https://github.com/weareblahs",
+  "dependencies": {
+    "is-admin": "^4.0.0",
+    "is-elevated": "^4.0.0",
+    "node-cmd": "^5.0.0",
+    "path": "^0.12.7",
+    "pkg": "^5.8.1",
+    "press-any-key": "^1.0.0",
+    "prompts": "^2.4.2",
+    "yn": "^5.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/weareblahs/MCCS/issues"
+  }
+}
