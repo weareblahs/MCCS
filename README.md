@@ -15,7 +15,11 @@ Go to the [releases](https://github.com/weareblahs/MCCS/releases) page and downl
    git clone https://github.com/weareblahs/MCCS
    cd MCCS
    ```
-2. Run MCCS.
+3. Install all required dependecies.
+   ```batch
+   npm install
+   ```
+3. Run MCCS.
    ```batch
    node app
    ```
