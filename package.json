@@ -3,7 +3,6 @@
   "type": "commonjs",
   "license": "MIT",
   "name": "mccs",
-  "version": "0.1",
   "url": "https://github.com/weareblahs",
   "dependencies": {
     "is-admin": "^4.0.0",
@@ -17,5 +16,13 @@
   },
   "bugs": {
     "url": "https://github.com/weareblahs/MCCS/issues"
-  }
+  },
+  "version": "1.0.0",
+  "description": "A tool used to check what prevents your Windows computer from sleeping or turning off display",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app"
+  },
+  "keywords": [],
+  "author": ""
 }
